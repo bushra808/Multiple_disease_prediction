@@ -1,7 +1,7 @@
 <h1>Multiple Diseases Prediction System</h1>
 This Multiple Diseases Prediction System is a Python-based application that uses machine learning models to predict the likelihood of various diseases, including Diabetes, Heart Disease, and Parkinson's Disease, based on user-provided data. It offers a user-friendly interface and can be used for early disease detection and risk assessment.
 
-Access the system through your web browser. You will be presented with a user-friendly interface that allows you to select the type of disease prediction you want to perform.
+
 
 Enter the relevant data as prompted for the selected disease prediction.
 
